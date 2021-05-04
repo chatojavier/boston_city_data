@@ -1,0 +1,24 @@
+.bgimg {
+    background-size: cover;
+    background-position: top;
+}
+
+.bgimg .main-title {
+    color: #fff;
+    text-shadow: 2px 2px 2px #2B2B2B;
+    text-transform: uppercase;
+    font-weight: 900;
+    text-align: right;
+}
+
+.header .jumbotron {
+    height: 200px;
+}
+
+.section-title {
+    font-weight: 700;
+}
+
+footer p {
+    font-size: .75rem;
+}
